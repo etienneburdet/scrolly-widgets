@@ -9,7 +9,7 @@
     "watch": "webpack --watch"
   },
   "dependencies": {
-    "angular": "1.4.7",
+    "angular": "1.8.0",
     "angular-sanitize": "^1.4.7",
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.4.2",
